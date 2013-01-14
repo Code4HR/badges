@@ -12,7 +12,7 @@ There is no code and there are no badge designs yet.
 
 This will likely be built on top of an "85%" open source solution such as Mozilla's [http://openbadges.org](http://openbadges.org)
 
-References:
-[http://openbadges.org](Mozilla Open Badges)
-[https://github.com/mozilla/openbadges/](Open Badges GitHub)
-[http://www.4squarebadges.com/foursquare-badge-list/](Foursquare Badge List)
+##References
+1. Foursquare Badge List, http://www.4squarebadges.com/foursquare-badge-list/
+2. Mozilla Open Badges, http://openbadges.org
+3. Open Badges GitHub, https://github.com/mozilla/openbadges/
