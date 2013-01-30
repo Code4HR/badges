@@ -4,9 +4,9 @@ badges
 A system for issuing achievement badges to Code for America Brigade volunteers, starting with descriptions of achievements.
 
 #Contributing
-Use [Wiki Pages](https://github.com/brigade-hrva/brigade-badges/wiki) to declare and define a badge.
+Use [Wiki Pages](https://github.com/brigade-hrva/badges/wiki) to declare and define a badge.
 
-Use [Issues](https://github.com/brigade-hrva/brigade-badges/issues) to discuss.
+Use [Issues](https://github.com/brigade-hrva/badges/issues) to discuss.
 
 There is no code and there are no badge designs yet.
 
