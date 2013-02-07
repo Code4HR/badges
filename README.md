@@ -16,3 +16,5 @@ This will likely be built on top of an "85%" open source solution such as Mozill
 1. [Foursquare Badge List]([http://www.4squarebadges.com/foursquare-badge-list/)
 2. [Mozilla Open Badges](http://openbadges.org)
 3. [Open Badges GitHub](https://github.com/mozilla/openbadges/)
+4. [Credly](http://credly.com)
+5. [Learning Times Badge Stack](http://www.learningtimes.com/what-we-do/badges/)
